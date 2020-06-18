@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Web Dev Stuff/JS-Exercise-Prototype"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JS-Exercise-Classes"
+	}
+}
